@@ -2,5 +2,9 @@
   {
     "package": "HoRM",
     "oncran": true
+  },
+  {
+    "package": "mixtools",
+    "oncran": true
   }
 ]

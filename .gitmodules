@@ -8,3 +8,8 @@
 	url = https://github.com/dsy109/horm
 	shallow = true
 	registered = true
+[submodule "mixtools"]
+	path = mixtools
+	url = https://github.com/dsy109/mixtools
+	shallow = true
+	registered = true
