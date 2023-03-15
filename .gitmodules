@@ -13,3 +13,8 @@
 	url = https://github.com/dsy109/mixtools
 	shallow = true
 	registered = true
+[submodule "tolerance"]
+	path = tolerance
+	url = https://github.com/dsy109/tolerance
+	shallow = true
+	registered = true

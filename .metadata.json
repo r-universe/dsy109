@@ -6,5 +6,9 @@
   {
     "package": "mixtools",
     "oncran": true
+  },
+  {
+    "package": "tolerance",
+    "oncran": true
   }
 ]
