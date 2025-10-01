@@ -5,6 +5,9 @@
 [submodule "HoRM"]
 	path = HoRM
 	url = https://github.com/dsy109/horm
+[submodule "ZIDW"]
+	path = ZIDW
+	url = https://github.com/dsy109/zidw
 [submodule "mixtools"]
 	path = mixtools
 	url = https://github.com/dsy109/mixtools
